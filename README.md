@@ -25,7 +25,7 @@ We conducted a thorough QA analysis of the **Blakskill Web Application**, focusi
 
 ## My Role & Contributions
 
-- 🧭 Project Lead and Assistant Bootcamp Rep – coordinated execution and team workflow
+- Project Lead and Assistant Bootcamp Rep – coordinated execution and team workflow
 - Co-authored and reviewed the **Product Requirement Document (PRD)**
 - Designed and executed **Manual Test Cases** based on PRD requirements
 - Logged bugs and tracked test results via **Google Sheets**
