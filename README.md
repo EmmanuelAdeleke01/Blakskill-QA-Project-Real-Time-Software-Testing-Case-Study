@@ -40,7 +40,7 @@ We conducted a thorough QA analysis of the **Blakskill Web Application**, focusi
 - Test Case Management & Bug Reporting: **Google Sheets**
 - Presentation: **Canva**
 
-> Note: This was a **fully manual testing project** with no automation tools used.
+Note: This was a **fully manual testing project** with no automation tools used.
 
 ---
 
