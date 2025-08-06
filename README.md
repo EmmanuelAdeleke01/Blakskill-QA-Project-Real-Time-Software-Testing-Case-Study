@@ -72,4 +72,4 @@ This project solidified my hands-on QA testing skills, taught me the importance 
 
 ### View Project Files & Slides
 
-> [Click here to access all project deliverables](https://drive.google.com/drive/folders/1eG1Y1yWA5D-h5CHZScCkpE4KTPpZDPFC)  
+[Click here to access all project deliverables](https://drive.google.com/drive/folders/1eG1Y1yWA5D-h5CHZScCkpE4KTPpZDPFC)  
