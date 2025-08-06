@@ -44,7 +44,7 @@ We conducted a thorough QA analysis of the **Blakskill Web Application**, focusi
 
 ---
 
-## 📂 QA Deliverables
+## QA Deliverables
 
 - Product Requirement Document (PRD)
 - Test Plan
